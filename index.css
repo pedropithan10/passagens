@@ -1,0 +1,8 @@
+.h1{
+    text-align: center;
+    padding: 5px;
+}
+input:focus:invalid, .contact_form textarea:focus:invalid {
+	border-color: #ff0000;
+    box-shadow: 0 0 5px #d45252;
+}
